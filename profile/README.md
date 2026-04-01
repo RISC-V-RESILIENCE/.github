@@ -21,18 +21,7 @@ Nossa pesquisa abrange desde o estudo teórico de falhas em hardware até a impl
 
 ---
 
-## 📊 Estatísticas da Organização
-
-<div align="center">
-<a href="https://github.com/RISC-V-RESILIENCE">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISC-V-RESILIENCE&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RISC-V-RESILIENCE&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-</a>
-</div>
-
----
-
-## 📁 Nossos Repositórios
+##  Nossos Repositórios
 
 | Repositório | Descrição |
 |:-----------:|-----------|
@@ -69,15 +58,6 @@ Nossa pesquisa abrange desde o estudo teórico de falhas em hardware até a impl
 Este projeto está licenciado sob a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ---
-
-<!-- Animated Footer - Snake Contribution Graph -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RISC-V-RESILIENCE/.github/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RISC-V-RESILIENCE/.github/blob/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://github.com/RISC-V-RESILIENCE/.github/blob/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
 
 <!-- Animated Footer Wave -->
 <p align="center">
