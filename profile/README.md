@@ -67,3 +67,8 @@ Este projeto está licenciado sob a [Creative Commons Attribution-ShareAlike 4.0
 ---
 **Resumo:** Este arquivo contém o perfil da organização RISC-V Resilience no GitHub.
 **Data de Criação:** 2025-10-15
+**Versão:** v1.0
+**Última Atualização:** 2026-04-02
+**Atualizado por:** Carlos Delfino
+**Histórico de Alterações:**
+- 2026-04-02 - Atualizado por Carlos Delfino - Atualização automática - Versão v1.0
